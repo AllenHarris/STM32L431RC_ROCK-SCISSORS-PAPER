@@ -1,0 +1,2 @@
+iwdg.c:15:6:iwdg_init	16	static
+iwdg.c:29:6:iwdg_feed	4	static

@@ -1,0 +1,3 @@
+light.c:15:6:light_init	16	static
+light.c:27:6:light_control	16	static
+light.c:38:6:light_change	16	static

@@ -1,0 +1,14 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+core_cm4.h:1724:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+gpio.c:31:6:gpio_init	32	static
+gpio.c:71:6:gpio_set	24	static
+gpio.c:97:8:gpio_get	32	static
+gpio.c:143:6:gpio_reverse	24	static
+gpio.c:172:6:gpio_pull	24	static
+gpio.c:211:6:gpio_enable_int	24	static
+gpio.c:260:6:gpio_disable_int	24	static
+gpio.c:302:8:gpio_get_int	24	static
+gpio.c:326:6:gpio_clear_int	24	static
+gpio.c:348:6:gpio_clear_allint	4	static
+gpio.c:363:6:gpio_drive_strength	24	static
+gpio.c:390:6:gpio_get_port_pin	24	static

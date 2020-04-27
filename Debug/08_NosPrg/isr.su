@@ -1,0 +1,2 @@
+isr.c:9:6:EXTI9_5_IRQHandler	4	static,ignoring_inline_asm
+isr.c:27:6:WWDG_IRQHandler	8	static
